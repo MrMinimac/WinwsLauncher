@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinwsLauncher", "BypassApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinwsLauncherLib", "BypassLib\WinwsLauncherLib.csproj", "{505D6829-13CB-41E6-8AF2-08E6E50F2252}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcrylicViews", "..\AcrylicContextMenu\AcrylicContextMenu\AcrylicViews.csproj", "{3ABCEF21-5DDE-4FD6-8EB6-688434525A93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcrylicViews", "AcrylicContextMenu\AcrylicViews.csproj", "{3ABCEF21-5DDE-4FD6-8EB6-688434525A93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,3 +35,4 @@ Global
 		SolutionGuid = {C787BE41-3DF0-48E3-900B-F1D4EB5283FF}
 	EndGlobalSection
 EndGlobal
+
