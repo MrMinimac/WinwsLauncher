@@ -1,0 +1,9 @@
+D:\Projects\VS Projects\Bypass\BypassLib\bin\Release\BypassLib.dll
+D:\Projects\VS Projects\Bypass\BypassLib\bin\Release\BypassLib.pdb
+D:\Projects\VS Projects\Bypass\BypassLib\bin\Release\Newtonsoft.Json.dll
+D:\Projects\VS Projects\Bypass\BypassLib\bin\Release\Newtonsoft.Json.xml
+D:\Projects\VS Projects\Bypass\BypassLib\obj\Release\BypassLib.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Bypass\BypassLib\obj\Release\BypassLib.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Bypass\BypassLib\obj\Release\BypassLib.csproj.Up2Date
+D:\Projects\VS Projects\Bypass\BypassLib\obj\Release\BypassLib.dll
+D:\Projects\VS Projects\Bypass\BypassLib\obj\Release\BypassLib.pdb

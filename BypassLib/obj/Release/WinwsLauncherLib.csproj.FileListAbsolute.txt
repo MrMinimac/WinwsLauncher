@@ -1,0 +1,9 @@
+D:\Projects\VS Projects\WinwsLauncher\BypassLib\bin\Release\WinwsLauncherLib.dll
+D:\Projects\VS Projects\WinwsLauncher\BypassLib\bin\Release\WinwsLauncherLib.pdb
+D:\Projects\VS Projects\WinwsLauncher\BypassLib\bin\Release\Newtonsoft.Json.dll
+D:\Projects\VS Projects\WinwsLauncher\BypassLib\bin\Release\Newtonsoft.Json.xml
+D:\Projects\VS Projects\WinwsLauncher\BypassLib\obj\Release\WinwsLauncherLib.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\WinwsLauncher\BypassLib\obj\Release\WinwsLauncherLib.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\WinwsLauncher\BypassLib\obj\Release\WinwsLau.DF5BE423.Up2Date
+D:\Projects\VS Projects\WinwsLauncher\BypassLib\obj\Release\WinwsLauncherLib.dll
+D:\Projects\VS Projects\WinwsLauncher\BypassLib\obj\Release\WinwsLauncherLib.pdb
